@@ -7,6 +7,7 @@ A basic Python script template.
 def main():
     """Main entry point of the script."""
     print("Hello, World!")
+    print('Welcome to DEVASC')
 
 
 if __name__ == "__main__":
